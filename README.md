@@ -10,8 +10,9 @@ Hello 😊 My name is Jeonghye, I am a developer studying at  🏫 Pusan Nationa
 | External <br/> activities |    2019.3 <br>~<br>2019.12   |      Department of<br>Web Programming     |           LikeLion           |
 |     🏢<br>Employment     |  2019.5.3 <br>~<br>2019.9.13 |                  Designer                 |      While True,<br>ONAD     |
 | External<br>activities | 2019.9.16 <br>~<br>2019.10.4 |              Front developer              |   Two weeks,<br>pathfinder   |
-|     🏢<br>Employment     |            2021.10           |              Intern developer             | ASSI.<br>Readers withreaders |
 |      🎓<br>Education     |         2020.3 <br>~         | Department of<br>Mathematics,<br>Software | Pusan National<br>University |
+|     🏢<br>Employment     |            2021.10           |              Intern developer             | ASSI.<br>Readers withreaders |
+
 
 
 ### 💎 Languages & Skills
