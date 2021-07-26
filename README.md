@@ -1,7 +1,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-DD0B78?style=flat-square&logo=github%20Sponsors&logoColor=white&link=https://jeonghye-choi.github.io/)](https://jeonghye-choi.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/ppllhm.0@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppllhm.0@gmail.com)](mailto:ppllhm.0@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-jeonghye%20choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeonghye-choi/)](https://www.linkedin.com/in/jeonghye-choi/)  
-
+[![Linkedin Badge](https://img.shields.io/badge/-jeonghye%20choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeonghye-choi/)](https://www.linkedin.com/in/jeonghye-choi/)  <br/>
 [![naver Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/jeonghye9808)](https://blog.naver.com/jeonghye9808)
 [![instagram Badge](https://img.shields.io/badge/-jihyenanum-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jihyenanum)](https://www.instagram.com/jihyenanum) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%2359DCFF&title_bg=%23646464&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
