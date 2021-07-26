@@ -4,12 +4,8 @@
 [![naver Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/jeonghye9808)](https://blog.naver.com/jeonghye9808)
 [![instagram Badge](https://img.shields.io/badge/-jihyenanum-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jihyenanum)](https://www.instagram.com/jihyenanum) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%2359DCFF&title_bg=%23646464&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br/>
-
 👋 Hi there! I'm a **front-end web developer** studying at Pusan National University 🏫.<br/>
 I always try to draw growth and challenge for Today better than yesterday.
-
-<br/>
 
 I enjoy reading, drawing, dancing and swimming.📚🎨💃<br/>
 I hope to develop every helpful things.
@@ -26,8 +22,6 @@ I hope to develop every helpful things.
  |      🎓<br>Education     |         2020.3 <br>~         | Department of<br>Mathematics,<br>Software | Pusan National<br>University |
  |     🏢<br>Employment     |            2020.10           |              Intern developer             | ASSI.<br>Readers withreaders |
 </details>
-
-<br/>
  
 ### 💎 Skills
 
