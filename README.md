@@ -17,8 +17,6 @@ I enjoy reading, drawing, dancing and swimming.📚🎨💃
 
 I hope to develop every helpful things.
 
-<br/>
-
 <details>
  <summary><b>Career</b></summary>
  <br/>
