@@ -7,14 +7,12 @@
 
 <br/>
 
-👋 Hi there! I'm a **front-end web developer** studying at Pusan National University 🏫.
-
+👋 Hi there! I'm a **front-end web developer** studying at Pusan National University 🏫.<br/>
 I always try to draw growth and challenge for Today better than yesterday.
 
 <br/>
 
-I enjoy reading, drawing, dancing and swimming.📚🎨💃
-
+I enjoy reading, drawing, dancing and swimming.📚🎨💃<br/>
 I hope to develop every helpful things.
 
 <details>
