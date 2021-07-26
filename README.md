@@ -1,35 +1,73 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%2359DCFF&title_bg=%23646464&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-DD0B78?style=flat-square&logo=github%20Sponsors&logoColor=white&link=https://jeonghye-choi.github.io/)](https://jeonghye-choi.github.io/) 
+[![Gmail Badge](https://img.shields.io/badge/ppllhm.0@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppllhm.0@gmail.com)](mailto:ppllhm.0@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-jeonghye%20choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeonghye-choi/)](https://www.linkedin.com/in/jeonghye-choi/)  
 
-Hello 😊 My name is Jeonghye, I am a developer studying at  🏫 Pusan National University.
+[![naver Badge](https://img.shields.io/badge/-Blog-deepgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/jeonghye9808)](https://blog.naver.com/jeonghye9808) 
+[![instagram Badge](https://img.shields.io/badge/-jihyenanum-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jihyenanum)](https://www.instagram.com/jihyenanum) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%2359DCFF&title_bg=%23646464&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 💎 Languages & Skills
+<br/>
 
- ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=TypeScript&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=Python&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=CSS3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=HTML5&logoColor=white) 
+👋 Hi there! I'm a **front-end web developer** studying at Pusan National University 🏫.
 
-![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=React&logoColor=white) ![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=Django&logoColor=white) 
+I always try to draw growth and challenge for Today better than yesterday.
 
+<br/>
 
-[![Jeonghye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghye-choi&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+I enjoy reading, drawing, dancing and swimming.📚🎨💃
+I hope to develop every helpful things.
 
+<br/>
 
-### 🐳 Career
+<details>
+ <summary><b>Career</b></summary>
+ <br/>
+ 
+  |          Type          |             Date             |                  Contents                 |         Organization         |
+ |:----------------------:|:----------------------------:|:-----------------------------------------:|:----------------------------:|
+ | External <br/> activities |    2019.3 <br>~<br>2019.12   |      Department of<br>Web Programming     |           LikeLion           |
+ |     🏢<br>Employment     |  2019.5.3 <br>~<br>2019.9.13 |                  Designer                 |      While True,<br>ONAD     |
+ | External<br>activities | 2019.9.16 <br>~<br>2019.10.4 |              Front developer              |   Two weeks,<br>pathfinder   |
+ |      🎓<br>Education     |         2020.3 <br>~         | Department of<br>Mathematics,<br>Software | Pusan National<br>University |
+ |     🏢<br>Employment     |            2020.10           |              Intern developer             | ASSI.<br>Readers withreaders |
+</details>
 
-|          Type          |             Date             |                  Contents                 |         Organization         |
-|:----------------------:|:----------------------------:|:-----------------------------------------:|:----------------------------:|
-| External <br/> activities |    2019.3 <br>~<br>2019.12   |      Department of<br>Web Programming     |           LikeLion           |
-|     🏢<br>Employment     |  2019.5.3 <br>~<br>2019.9.13 |                  Designer                 |      While True,<br>ONAD     |
-| External<br>activities | 2019.9.16 <br>~<br>2019.10.4 |              Front developer              |   Two weeks,<br>pathfinder   |
-|      🎓<br>Education     |         2020.3 <br>~         | Department of<br>Mathematics,<br>Software | Pusan National<br>University |
-|     🏢<br>Employment     |            2020.10           |              Intern developer             | ASSI.<br>Readers withreaders |
+<br/>
+ 
+### 💎 Skills
 
+**Languages**
 
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.ecma-international.org/publications/standards/Ecma-262.htm)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
+**Frameworks & Libraries**
 
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
+[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
 
-### 🦋Contacts
+<details>
+ <summary>more</summary>
+ <br/>
+ 
+ [![Insomnia Badge](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white&link=https://insomnia.rest/)](https://insomnia.rest/)
+  [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppllhm.0@gmail.com)](mailto:ppllhm.0@gmail.com) [![naver Badge](https://img.shields.io/badge/-Naver-green?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/jeonghye9808)](https://blog.naver.com/jeonghye9808) [![instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jihyenanum)](https://www.instagram.com/jihyenanum) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://jeonghye-choi.github.io/)](https://jeonghye-choi.github.io/)
+</details>
 
+**Tools**
 
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=https://about.gitlab.com/)](https://about.gitlab.com/)
+
+[![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+
+---
+
+[![Shields.io Badge](https://img.shields.io/badge/-Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white&link=https://shields.io/)](https://shields.io/)
+[![SimpleIcons Badge](https://img.shields.io/badge/-Simple%20Icons-111111?style=flat-square&logo=simpleicons&logoColor=white&link=https://simpleicons.org/)](https://simpleicons.org/)
 
 
