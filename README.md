@@ -111,7 +111,7 @@ I always try to draw growth and challenge for Today better than yesterday.
 [gatsby]: https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white
 [next]: https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white
 [react native]: https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white
-[redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=next.js&logoColor=white
+[redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
 [context-api]: https://img.shields.io/badge/-Context%20Api-000000?style=flat-square&logo=&logoColor=white
 
 <!-- CSS -->
