@@ -31,7 +31,7 @@ I always try to draw growth and challenge for Today better than yesterday.
 [![Gatsby]](https://www.gatsbyjs.com)
 [![Next]]()
 [![React Native]](https://reactnative.dev)
-
+\
 [![Redux]](https://redux.js.org)
 [![context-api]]()
 
@@ -47,8 +47,9 @@ I always try to draw growth and challenge for Today better than yesterday.
 [![Antd]](https://ant.design)
 [![Bootstrap]](https://getbootstrap.com)
 [![Material UI]](https://mui.com)
-[![Styled-Components]](https://styled-components.com)
 [![Emotion]](https://emotion.sh)
+\
+[![Styled-Components]](https://styled-components.com)
 
 ### Tools
 
@@ -58,11 +59,14 @@ I always try to draw growth and challenge for Today better than yesterday.
 [![GitHub]](https://github.com)
 [![GitLab]](https://about.gitlab.com)
 
-**Transpiler** : [![Babel]](https://babeljs.io)
+**Transpiler & Module Bundler**
 
-**Module Bundler** : [![Webpack]](https://webpack.js.org)
+[![Babel]](https://babeljs.io)
+[![Webpack]](https://webpack.js.org)
 
-**Package Manager** : [![npm]](https://www.npmjs.com/) [![yarn]](https://yarnpkg.com)
+**Package Manager**
+
+[![npm]](https://www.npmjs.com/) [![yarn]](https://yarnpkg.com)
 
 ### Publish
 
@@ -70,6 +74,7 @@ I always try to draw growth and challenge for Today better than yesterday.
 [![Gitlab Pages]](https://docs.gitlab.com/ee/user/project/pages)
 [![Gatsby Cloud]](https://www.gatsbyjs.com/products/cloud)
 [![Netlify]](https://www.netlify.com)
+\
 [![Heroku]](https://www.heroku.com)
 [![Firebase]](https://firebase.google.com)
 [![AWS]](https://aws.amazon.com)
@@ -78,7 +83,6 @@ I always try to draw growth and challenge for Today better than yesterday.
 
 [![Shields.io]](https://shields.io/)
 [![Simple Icons]](https://simpleicons.org/)
-
 
 <!-- Badge Links -->
 
@@ -91,7 +95,6 @@ I always try to draw growth and challenge for Today better than yesterday.
 [naver]: https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white
 [mail]: https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white
 [hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%2359DCFF&title_bg=%23646464&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false
-
 
 <!-- Language -->
 
@@ -118,15 +121,15 @@ I always try to draw growth and challenge for Today better than yesterday.
 
 <!-- Preprocessors -->
 
-[sass]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
+[sass]: https://img.shields.io/badge/-sass-CC6699?style=flat-square&logo=sass&logoColor=white
 
 <!-- CSS Framework -->
 
-[antd]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[bootstrap]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[material ui]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[styled-components]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[emotion]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
+[antd]: https://img.shields.io/badge/-Antd-0170FE?style=flat-square&logo=antdesign&logoColor=white
+[bootstrap]: https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white
+[material ui]: https://img.shields.io/badge/-Material%20Ui-057FFE?style=flat-square&logo=&logoColor=white
+[styled-components]: https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white
+[emotion]: https://img.shields.io/badge/-Emotion-D26BC2?style=flat-square&logo=&logoColor=white
 
 <!-- Tools -->
 <!-- Version Control System -->
@@ -137,27 +140,28 @@ I always try to draw growth and challenge for Today better than yesterday.
 
 <!-- Transpiler -->
 
-[babel]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
+[babel]: https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white
 
 <!-- Module Bundler -->
 
-[webpack]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
+[webpack]: https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white
 
 <!-- Package Manager -->
 
-[npm]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[yarn]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
+[npm]: https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white
+[yarn]: https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white
 
 <!-- Publish -->
 
-[github pages]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=whit
-[gitlab pages]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[gatsby cloud]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[netlify]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[heroku]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[firebase]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
-[aws]: https://img.shields.io/badge/-next-000000?style=flat-square&logo=next.js&logoColor=white
+[github pages]: https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white
+[gitlab pages]: https://img.shields.io/badge/-GitLab%20Pages-FCA121?style=flat-square&logo=gitlab&logoColor=white
+[gatsby cloud]: https://img.shields.io/badge/-Gatsby%20Cloud-663399?style=flat-square&logo=gatsby&logoColor=white
+[netlify]: https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white
+[heroku]: https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white
+[firebase]: https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white
+[aws]: https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
 
+<!-- etc -->
 
 [shields.io]: https://img.shields.io/badge/-Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white
 [simple icons]: https://img.shields.io/badge/-Simple%20Icons-111111?style=flat-square&logo=simpleicons&logoColor=white
