@@ -214,7 +214,7 @@ align="right"/>
 
 <br/>
 
-[![Resume]](https://jeonghyedev.notion.site/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86)
+[![Resume]](https://jeonghye-choi.notion.site/)
 [![Blog]](https://jeonghye.blog)
 [![LinkedIn]](https://www.linkedin.com/in/jeonghye-choi)
 [![Instagram]](https://www.instagram.com/jihyenanum)
