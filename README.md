@@ -153,7 +153,7 @@ align="right"/>
           UX Engineer Assistant
         </td>
         <td>
-          2022.6 (6개월)
+          2022.6 - 12 (6개월)
         </td>
         <td>
           <b>UX Engineer Assistant</b>
@@ -188,7 +188,7 @@ align="right"/>
           FE
         </td>
         <td>
-          2021.6 - Present
+          2021.6 - 2022.11
         </td>
         <td>
           <b>심리검사 중심의 커뮤니티, 꿀벌 커뮤니티</b>
