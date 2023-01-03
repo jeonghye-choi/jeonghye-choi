@@ -162,6 +162,7 @@ align="right"/>
           <li>개발자를 위한 인스펙터 작업</li>
           <li>Framer 컴포넌트 리팩토링 및 마이그레이션</li>
           <li>노션 가이드 문서 리팩토링</li>
+          <li>Asstistant간의 트러블슈팅 및 작업공유를 위한 document 프로젝트 </li>
         </td>
       </tr>
       <tr>
