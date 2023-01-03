@@ -5,7 +5,7 @@ align="right"/>
 
 ## 👩‍🎨 Jeonghye | 시스템을 만드는 개발자
 
-**성장을 위해 도전하고 성공을 위해 시스템을 만드는  개발자, 최정혜입니다**
+**성장을 위해 도전하고 성공을 위해 시스템을 만드는 개발자, 최정혜입니다**
 
 <details >
 <summary> 💻  저는 ______ 개발자 입니다. </summary>
@@ -117,8 +117,8 @@ align="right"/>
 
 ### Study
 
-- ‘오브젝트’로 배우는 객체지향, [OOP 스터디](https://github.com/Jihyenanum-Laboratory/JLab-1-OOP/wiki)(리더) *- 2022.11~*
-- 도전하며 함께 배우는 타입스크립트, [typeScript Challenge 스터디](https://github.com/Jihyenanum-Laboratory/JLab-1-Type-Challenge/pulls)(팀원) *- 2022.11~*
+- ‘오브젝트’로 배우는 객체지향, [OOP 스터디](https://github.com/Jihyenanum-Laboratory/JLab-1-OOP/wiki)(리더) _- 2022.11~_
+- 도전하며 함께 배우는 타입스크립트, [typeScript Challenge 스터디](https://github.com/Jihyenanum-Laboratory/JLab-1-Type-Challenge/pulls)(팀원) _- 2022.11~_
 - 자바스크립트 개념을 딥하게 익혀보자, ‘자바스크립트 완벽 가이드' 완독 스터디(리더) _- 2022.4.28~_
 - 코딩도 체력이 되어야 할 수 있다, 기초 체력 키우는 스터디 TIE(팀원) _- 2022.3.2~_
 - 매일 매일 공부하는 습관을 만드는 TIL 스터디(리더) _- 2022.1.1~2022.2.28_
@@ -216,7 +216,6 @@ align="right"/>
     </tbody>
   </Table>
 
-
 ### Awards
 
   <Table>
@@ -282,3 +281,44 @@ align="right"/>
 
 <br/>
 </details>
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jeonghye-choi&theme=onedark&row=1&no-frame=true"
+    alt="GitHub Profile Trophy"
+/></a>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img
+            src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j"
+            alt="GitHub Streak"
+        /></a>
+      </td>
+      <td>
+        <a href="">
+          <img 
+            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" 
+            alt="profile-card"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="">
+          <img 
+            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+            alt="profile-card"
+            width="100%"
+          >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
