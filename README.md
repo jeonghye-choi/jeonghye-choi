@@ -282,7 +282,7 @@ align="right"/>
 <br/>
 </details>
 
-<br/>
+<hr/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
