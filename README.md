@@ -22,49 +22,6 @@
 ![pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=for-the-badge&logo=Pnpm&logoColor=white)
 ![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
 
-
-<hr/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jeonghye-choi&theme=onedark&row=1&no-frame=true"
-    alt="GitHub Profile Trophy"
-/></a>
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img
-            src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j"
-            alt="GitHub Streak"
-        /></a>
-      </td>
-      <td>
-        <a href="">
-          <img 
-            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" 
-            alt="profile-card"
-          >
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="">
-          <img 
-            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
-            alt="profile-card"
-            width="100%"
-          >
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 <hr/>
 
 ### 🏢 Career
@@ -141,3 +98,44 @@
       </tr>
     </tbody>
   </Table>
+
+<hr/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jeonghye-choi&theme=onedark&row=1&no-frame=true"
+    alt="GitHub Profile Trophy"
+/></a>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img
+            src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j"
+            alt="GitHub Streak"
+        /></a>
+      </td>
+      <td>
+        <a href="">
+          <img 
+            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" 
+            alt="profile-card"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="">
+          <img 
+            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+            alt="profile-card"
+            width="100%"
+          >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
