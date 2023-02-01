@@ -23,8 +23,6 @@
 ![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
 
 
-
-
 <hr/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -69,84 +67,19 @@
 
 <hr/>
 
+### 🏢 Career
 
-### Career
+- **Viva Republica(Toss)** - UX Engineer Assistant _(June 2022 ~ Dec 2022)_
+- **Readers(리더스)** - FE Intern _(Oct 2021)_
+- **Honeybees(꿀벌 커뮤니티)** - FE _(June 2021 ~ Nov 2022)_
+- **OnAd** - UI/UX Designer         
 
-  <Table>
-    <tbody>
-       <tr>
-        <td>
-          Viva Republica (Toss)
-        </td>
-        <td>
-          UX Engineer Assistant
-        </td>
-        <td>
-          2022.6 - 12 (6개월)
-        </td>
-        <td>
-          <b>UX Engineer Assistant</b>
-          <li>TDS 구현 및 유지보수</li>
-          <li>디자이너를 위한 디자인 패널 작업</li>
-          <li>개발자를 위한 인스펙터 작업</li>
-          <li>Framer 컴포넌트 리팩토링 및 마이그레이션</li>
-          <li>노션 가이드 문서 리팩토링</li>
-          <li>Asstistant간의 트러블슈팅 및 작업공유를 위한 document 프로젝트 </li>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          리더스 (Readers)
-        </td>
-        <td>
-          FE 인턴
-        </td>
-        <td>
-          2021.10 (1개월)
-        </td>
-        <td>
-          <b>완벽한 독서를 위한 서비스, 리더스(Readers) 앱</b>
-          <li>유저 반응을 통계로 볼 수 있는 관리자 페이지 개발</li>
-          <li>데이터에 코호트 분석을 적용해 그래프로 표현</li>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Honeybees 꿀벌 커뮤니티
-        </td>
-        <td>
-          FE
-        </td>
-        <td>
-          2021.6 - 2022.11
-        </td>
-        <td>
-          <b>심리검사 중심의 커뮤니티, 꿀벌 커뮤니티</b>
-          <li>create-react-app 기반 사이트 개발</li>
-          <li>요구사항을 토대로 IA 작성</li>
-          <li>새로운 멤버 추가로 인한 코드 리펙토링</li>
-          <li>컴포넌트 설계에 Atomic 디자인 적용</li>
-        </td>
-      </tr>
-    </tbody>
-  </Table>
 
-### Certifications
+### 🌟 Certifications
 
-  <Table>
-    <tbody>
-       <tr>
-        <td>
-          ISTQB CTFL
-        </td>
-        <td>
-          국제 SW 테스팅 자격 위원회
-        </td>
-      </tr>
-    </tbody>
-  </Table>
+- **ISTQB CTFL** - 국제 SW 테스팅 자격 위원회
 
-### Awards
+### 🏆 Awards
 
   <Table>
     <tbody>
