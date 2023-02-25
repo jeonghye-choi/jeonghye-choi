@@ -26,6 +26,7 @@
 
 ### 🏢 Career
 
+- **TeamGRIT** - Graphics Engineer _(Feb 2023 ~ present)_
 - **Viva Republica(Toss)** - UX Engineer Assistant _(June 2022 ~ Dec 2022)_
 - **Readers(리더스)** - FE Intern _(Oct 2021)_
 - **Honeybees(꿀벌 커뮤니티)** - FE _(June 2021 ~ Nov 2022)_
