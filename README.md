@@ -1,6 +1,6 @@
 ## 👩‍🎨 Jeonghye | 시스템을 만드는 개발자
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%23E5DBCB&title_bg=%23646464&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://resume.dataportal.kr)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%23E5DBCB&title_bg=%23646464&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)]()
 [![Resume](https://img.shields.io/badge/Resume-9EA38E?style=flat-square&logo=ReadMe&logoColor=white)](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86)
 [![Blog](https://img.shields.io/badge/Resume-E59881?style=flat-square&logo=undertale&logoColor=white)]([https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86](https://jeonghye.blog/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/jeonghye-choi/)
