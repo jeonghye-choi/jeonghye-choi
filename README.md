@@ -1,26 +1,31 @@
 ## 👩‍🎨 Jeonghye | 시스템을 만드는 개발자
 
-**성장을 위해 도전하고 성공을 위해 시스템을 만드는 개발자, 최정혜입니다**
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%23E5DBCB&title_bg=%23646464&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://resume.dataportal.kr)
 [![Resume](https://img.shields.io/badge/Resume-9EA38E?style=flat-square&logo=ReadMe&logoColor=white)](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86)
 [![Blog](https://img.shields.io/badge/Resume-E59881?style=flat-square&logo=undertale&logoColor=white)]([https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86](https://jeonghye.blog/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/jeonghye-choi/)
 
+**성장을 위해 도전하고, 성공을 위해 시스템을 만드는 개발자, 최정혜입니다!**
+
+영상과 음성 데이터의 원활한 송수신을 처리하며, 코덱 인코딩/디코딩 작업에는 능숙합니다. 
+또한, 데이터의 그래픽 처리를 공부하며 웹에서 멋진 3D 표현에 큰 관심을 가지고 있습니다! 🌱🌟🎥🎵
+
+<br/>
+
+I'm Jeonghye Choi, a developer who embraces challenges for growth and strives for success by building robust systems. 
+
+I excel in seamless transmission of video and audio data, specializing in codec encoding/decoding tasks. 
+Additionally, I have a keen interest in studying graphic processing of data and creating captivating 3D representations on the web!
+
+<br/>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Next](https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)
-</br>
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
-![Emotion](https://img.shields.io/badge/-Emotion-DB7093?style=for-the-badge&logo=Emotion&logoColor=white)
-![Styled-Component](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-</br>
-![npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=for-the-badge&logo=Pnpm&logoColor=white)
-![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
+<br/>
+![BabylonJS](https://img.shields.io/badge/-Babylonjs-D0271D?style=for-the-badge&logo=Babylon&logoColor=white)
+![WebGPU](https://img.shields.io/badge/-WebGPU-2C8EBB?style=for-the-badge&logo=webgpu&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
 
 <hr/>
 
