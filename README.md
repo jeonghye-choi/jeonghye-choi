@@ -1,35 +1,35 @@
-## 👩‍🎨 Jeonghye | 시스템을 만드는 개발자
+## 👩‍🎨 Jeonghye | Full-stack Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%23E5DBCB&title_bg=%23646464&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)]()
 [![Resume](https://img.shields.io/badge/Resume-9EA38E?style=flat-square&logo=ReadMe&logoColor=white)](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86)
-[![Blog](https://img.shields.io/badge/Resume-E59881?style=flat-square&logo=undertale&logoColor=white)]([https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86](https://jeonghye.blog/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/jeonghye-choi/)
 
-**성장을 위해 도전하고, 성공을 위해 시스템을 만드는 개발자, 최정혜입니다!**
+**Passionate Full-stack Developer with a focus on building robust backend architectures and exploring media-related technologies.**
 
-영상과 음성 데이터의 원활한 송수신을 처리하며, 코덱 인코딩/디코딩 작업에 능숙합니다. 
-영상 처리와 관련된 작업을 공부하고 있으며, 현재는 rust 언어를 공부하며 영상 처리에 대한 새로운 가능성을 탐구하고 있습니다.
+영상과 음성 데이터의 원활한 송수신을 처리하며, 코덱 인코딩/디코딩 작업에 능숙합니다.
 
-웹에서 멋진 3D 표현에 큰 관심을 가지고 있으며, 최신 기술과 도전을 통해 더 나은 사용자 경험을 만들어내는 것에 흥미를 느낍니다! 🌱🌟🎥🎵💻
+
+현재는 견고한 백엔드 아키텍처와 성능 향상을 만들기 위해 공부하고 있습니다. 또한 미디어 데이터의 원활한 전송 및 처리에 대한 가능성을 탐구하고 있습니다. 
+최신 기술을 활용하고 도전을 즐기며 우수한 사용자 경험을 만들어내는 것에 흥미를 느낍니다!🌱🌟🎥🎵💻
 
 
 <br/>
 
 I'm Jeonghye Choi, a developer who embraces challenges for growth and strives for success by building robust systems. 
 
-I excel in seamless transmission and processing of video and audio data, along with codec encoding/decoding operations.
-I am currently studying and exploring the realm of video processing, delving into the possibilities it holds, while honing my skills in the Rust programming language.
+I excel in seamlessly managing the transmission and reception of video and audio data, demonstrating adeptness in codec encoding/decoding tasks.
 
-I have a profound interest in creating captivating 3D representations on the web and I am driven by the pursuit of leveraging cutting-edge technologies to deliver enhanced user experiences.
+Presently, I am focused on crafting a robust backend architecture while enhancing performance. Additionally, I am actively exploring avenues for the seamless transmission and processing of media data.
 
+Enthusiastically embracing the latest technologies, I relish challenges and aspire to craft exceptional user experiences! 🌱🌟🎥🎵💻
 
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=Rust&logoColor=white)
-<br/>
+![C++](https://img.shields.io/badge/-c++-CE422B?style=for-the-badge&logo=c++&logoColor=white)
 
+<br/>
 
 [![Image Processing](https://img.shields.io/badge/-Image%20Processing-FF4500?style=flat)](https://en.wikipedia.org/wiki/Digital_image_processing)
 [![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-6495ED?style=flat)](https://en.wikipedia.org/wiki/Computer_vision)
