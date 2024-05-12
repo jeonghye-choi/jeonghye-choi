@@ -128,19 +128,17 @@ Enthusiastically embracing the latest technologies, I relish challenges and aspi
   <tbody>
     <tr>
       <td>
+          <img 
+            src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rojenna" 
+            alt="backjoon-level"
+          >
+      </td>
+      <td>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
           <img
             src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j"
             alt="GitHub Streak"
         /></a>
-      </td>
-      <td>
-        <a href="">
-          <img 
-            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" 
-            alt="profile-card"
-          >
-        </a>
       </td>
     </tr>
     <tr>
