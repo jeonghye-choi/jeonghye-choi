@@ -27,16 +27,53 @@ Enthusiastically embracing the latest technologies, I relish challenges and aspi
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![C++](https://img.shields.io/badge/-c++-CE422B?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-CE422B?style=for-the-badge&logo=cpp&logoColor=white)
+![Rust](https://img.shields.io/badge/-rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 
-<br/>
 
 [![Image Processing](https://img.shields.io/badge/-Image%20Processing-FF4500?style=flat)](https://en.wikipedia.org/wiki/Digital_image_processing)
-[![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-6495ED?style=flat)](https://en.wikipedia.org/wiki/Computer_vision)
 [![Video Processing](https://img.shields.io/badge/-Video%20Processing-FF4500?style=flat)](https://en.wikipedia.org/wiki/Video_processing)
-[![Object Detection](https://img.shields.io/badge/-Object%20Detection-008000?style=flat)](https://en.wikipedia.org/wiki/Object_detection)
 
+<hr/>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jeonghye-choi&theme=onedark&row=1&no-frame=true"
+    alt="GitHub Profile Trophy"
+/></a>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <img 
+            src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rojenna" 
+            alt="backjoon-level"
+          >
+      </td>
+      <td>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img
+            src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j"
+            alt="GitHub Streak"
+        /></a>
+      </td>
+    </tr>
+<!--     
+    <tr>
+      <td colspan="2">
+        <a href="">
+          <img 
+            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+            alt="profile-card"
+            width="100%"
+          >
+        </a>
+      </td>
+    </tr> 
+    -->
+  </tbody>
+</table>
 
 <hr/>
 
@@ -116,41 +153,3 @@ Enthusiastically embracing the latest technologies, I relish challenges and aspi
     </tbody>
   </Table>
 
-<hr/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jeonghye-choi&theme=onedark&row=1&no-frame=true"
-    alt="GitHub Profile Trophy"
-/></a>
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <img 
-            src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rojenna" 
-            alt="backjoon-level"
-          >
-      </td>
-      <td>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img
-            src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j"
-            alt="GitHub Streak"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="">
-          <img 
-            src="https://raw.githubusercontent.com/jeonghye-choi/jeonghye-choi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
-            alt="profile-card"
-            width="100%"
-          >
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
