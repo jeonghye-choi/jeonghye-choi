@@ -1,5 +1,9 @@
 ## 👩‍💻 Jeonghye Choi  | Backend Developer
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jeonghye-choi?pet-id=628220241886408107" width="250" height="120"/>
+</a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%23E5DBCB&title_bg=%23646464&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)]()
 [![Resume](https://img.shields.io/badge/Resume-9EA38E?style=flat-square&logo=ReadMe&logoColor=white)](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/jeonghye-choi/)
@@ -22,10 +26,9 @@ I'm Jeonghye Choi, a Backend Developer proficient in **TypeScript** and **Rust**
 
 ### Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
 
 ---
 
