@@ -12,16 +12,15 @@
 
 ### About Me
 
-I'm Jeonghye Choi, a Backend Developer proficient in **TypeScript** and **Rust**. I am passionate about designing and implementing high-performance systems, with a strong focus on real-time media processing, including encoding and decoding tasks. Currently, I am exploring the integration of Cloud LLM with RAG for advanced applications.
+I'm Jeonghye Choi, a Backend Developer specializing in Rust and TypeScript. Passionate about high-performance system design and scalable architectures, with experience in media-related tasks such as encoding and decoding.
 
 ---
 
 ### Interests
 
-- **Performance-Oriented System Design**: Crafting efficient and scalable backend architectures.
-- **Open Source Contribution**: Actively participating in and contributing to open source projects.
-- **Cloud LLM and RAG**: Studying and applying Retrieval-Augmented Generation in cloud environments.
-
+- **High-Performance System Design**: Building scalable, optimized backend systems.
+- **Software Architecture**: Exploring design patterns and architectural best practices.
+- **Open Source Contribution**: Sharing knowledge and collaborating with the developer community.
 ---
 
 ### Tech Stack
@@ -45,7 +44,7 @@ I'm Jeonghye Choi, a Backend Developer proficient in **TypeScript** and **Rust**
 
 ### 🏢 Career
 
-- **TeamGRIT** - Graphics Engineer _(Feb 2023 ~ present)_
+- **TeamGRIT** - Backend Developer _(Feb 2023 ~ present)_
 - **Viva Republica (Toss)** - UX Engineer Assistant _(June 2022 ~ Dec 2022)_
 - **Readers** - Frontend Intern _(Oct 2021)_
 - **Honeybees Community** - Frontend Developer _(June 2021 ~ Nov 2022)_
@@ -71,5 +70,5 @@ I'm Jeonghye Choi, a Backend Developer proficient in **TypeScript** and **Rust**
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jeonghye-choi/) or check out my [Resume](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86).
+Thank you for visiting my profile! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jeonghye-choi/) or check out my [Resume](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86).
 
