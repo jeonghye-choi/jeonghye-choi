@@ -1,64 +1,57 @@
-## 👩‍💻 Hi there, I'm Jeonghye Choi | Backend Developer
+## 👩‍💻 Hi, I'm Jeonghye
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeonghye-choi)
 [![Blog](https://img.shields.io/badge/Blog-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jeonghye-choi)
-[![Resume](https://img.shields.io/badge/Resume-View-9EA38E?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/jeonghyedev/Jeonghye-8d52b0dc4ef046da8886c6b88a3cca86)
 
 ---
 
 
 ### About Me
 
-I'm a backend developer with a strong foundation in frontend development. I started my career as a frontend engineer and later transitioned into backend engineering, where I’ve found my passion in building scalable systems and integrating real-time devices and AI-based services.
+Software Engineer with 3+ years of experience building production systems across web applications and real-time platforms.
+
+I work across frontend and backend, with a strong focus on building user-facing products that are reliable, scalable, and intuitive to use.
 
 ---
 
-### Skills & Interests
+### 🤸 What I Do
 
-**🔧 Core Backend Skills**
-
-- Java, Spring Boot, JPA
-- API design & documentation  
-- Scalable backend system architecture  
-- Event-driven architecture & async processing  
-- Database schema design (MySQL)
-- DevOps & Deployment (Docker, AWS EC2, S3, IAM, Lambda)
-
-**🤖 Interest Domains**
-
-- Real-time device communication (robotics, IoT)  
-- AI-based data streaming & visualization  
-- Remote system control  
-- Cloud orchestration
-
-**🧰 Also Experienced With**
-
-- Express & TypeScript
-- Rust
+- Build modern web applications using React, Vue.js, TypeScript, and Node.js  
+- Develop real-time systems and interactive platforms  
+- Design and implement end-to-end features across the stack  
+- Focus on performance, usability, and system reliability
 
 ---
 
-### Tech Stack (Summary)
+### ⚡️ Experience Highlights
 
+- Built real-time robotics platforms used across multiple countries  
+- Developed interactive applications involving live device control and streaming  
+- Worked across frontend, backend, and deployment (Docker, AWS)  
+
+---
+
+### ⚒️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-83A7DB?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Other**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<sub>Also used: TypeScript, Express, Rust (internal tools)</sub>
-
----
-
-
-### 🏢 Career
-
-- **TeamGRIT** – Backend Developer _(Feb 2023 ~ Present)_
-  - Developed backend systems for real-time device communication and AI-based data processing in robotics
-- **Viva Republica (Toss)** – UX Engineer Assistant _(Jun 2022 ~ Dec 2022)_  
-- **Readers** – Frontend Intern _(Oct 2021)_  
-- **OnAd** – UI/UX Designer _(2020)_
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 
 ---
 
@@ -77,16 +70,6 @@ I'm a backend developer with a strong foundation in frontend development. I star
 
 - **ISTQB CTFL** – International Software Testing Qualifications Board
 
----
-
-### 📊 Github Stats
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=jeonghye-choi&theme=react&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeonghye-choi&theme=onedark&row=1&no-frame=true" alt="GitHub Profile Trophy"/>
-</a>
 
 ---
 
@@ -95,6 +78,3 @@ I'm a backend developer with a strong foundation in frontend development. I star
 Thank you for stopping by!  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jeonghye-choi/).
 
-<sub><i>✨ My Gitanimal is always coding too →</i></sub>  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jeonghye-choi?pet-id=628220241886408107" width="200"/>
-</a>
