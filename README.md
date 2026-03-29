@@ -4,11 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeonghye-choi)
 [![Blog](https://img.shields.io/badge/Blog-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jeonghye-choi)
 
----
-
-
-### About Me
-
 Software Engineer with 3+ years of experience building production systems across web applications and real-time platforms.
 
 I work across frontend and backend, with a strong focus on building user-facing products that are reliable, scalable, and intuitive to use.
