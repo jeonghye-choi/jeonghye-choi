@@ -1,4 +1,4 @@
-### Hi, I'm Jen 👋
+### Hi, I'm Jeonghye 👋
 
 Software engineer who enjoys building things that are complex under the hood but feel effortless to use —
 interactive UIs, real-time systems, media pipelines.
